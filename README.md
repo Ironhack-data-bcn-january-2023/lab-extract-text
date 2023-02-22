@@ -13,7 +13,7 @@ It could be tweets, lines of characters per episode and per season, conversation
 - Load the file into SQL. Try to do with through Python. Otherwise, try to load it on workbench by:
 
 1. Creating a database
-2. Adding a table to the database through Table qizard (right click on the db and add a table)
+2. Adding a table to the database through Table wizard (right click on the db and add a table)
 3. If you encounter issues when importing, work around the formatting of the code. Transform your code so that it matches the utf-8 codification.
 
 ## Submission
