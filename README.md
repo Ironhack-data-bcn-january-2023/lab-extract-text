@@ -2,7 +2,9 @@
 
 ## Introduction
 
-As you'll be working with text for your next project, make sure you get a database. You have some options:
+For your next project you'll need to find a database to work with, take this time to look for it. It can be a database containing text or any other kind of data. You can find it through webscrapping, using an API or downloading a csv file.  
+
+If you want to work with *text*. You have some options:
 
 - Scrape reviews from a website: using beautifulsoup or selenium
 - Use an API to get information that is text-related
